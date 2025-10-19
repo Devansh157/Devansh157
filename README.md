@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🌱 I’m currently learning java,sql,c#
+- 🌱 I’m currently learning java,sql,c#,python,js
 - 🤔 I’m looking for help with Building real life java based projects
                                 understanding and optimizing sql queries
                                 contributing to open source(don't know where to start from)
